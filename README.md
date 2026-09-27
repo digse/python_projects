@@ -10,7 +10,7 @@
 
 ### Project Status:
 - Hangman [x]
-- Rock Paper Scissors Game []
+- Rock Paper Scissors Game [x]
 - Mad Libs []
 - GUI Alarm Clock []
 - Desktop Notification Application []

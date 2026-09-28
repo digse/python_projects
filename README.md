@@ -12,7 +12,7 @@
 - Hangman [x]
 - Rock Paper Scissors Game [x]
 - Mad Libs []
-- GUI Alarm Clock []
+- GUI Alarm Clock [x]
 - Desktop Notification Application []
 - Text to Speech []
 - Clickomania Game []

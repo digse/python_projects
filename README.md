@@ -13,7 +13,7 @@
 - Rock Paper Scissors Game [x]
 - Mad Libs []
 - GUI Alarm Clock [x]
-- Desktop Notification Application []
+- Desktop Notification Application [x]
 - Text to Speech []
 - Clickomania Game []
 - YouTube Video Downloader []

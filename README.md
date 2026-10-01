@@ -14,7 +14,7 @@
 - Mad Libs []
 - GUI Alarm Clock [x]
 - Desktop Notification Application [x]
-- Text to Speech []
+- Text to Speech [x]
 - Clickomania Game []
 - YouTube Video Downloader []
 - Flappy Bird Game []
